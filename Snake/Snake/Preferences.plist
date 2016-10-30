@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>General</key>
+	<dict>
+		<key>blockSize</key>
+		<integer>15</integer>
+		<key>tapsToPause</key>
+		<integer>2</integer>
+	</dict>
+	<key>Themes</key>
+	<dict>
+		<key>defaultTheme</key>
+		<string>pastel</string>
+		<key>changeOnTime</key>
+		<true/>
+	</dict>
+	<key>Snake</key>
+	<dict>
+		<key>speed</key>
+		<integer>13</integer>
+		<key>initialLenght</key>
+		<integer>6</integer>
+	</dict>
+	<key>Food</key>
+	<dict>
+		<key>max</key>
+		<integer>6</integer>
+	</dict>
+	<key>Dizy</key>
+	<dict>
+		<key>max</key>
+		<integer>6</integer>
+	</dict>
+	<key>Dead</key>
+	<dict>
+		<key>max</key>
+		<integer>6</integer>
+	</dict>
+</dict>
+</plist>
